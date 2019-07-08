@@ -1,13 +1,5 @@
-﻿Imports DevExpress.XtraPivotGrid
-Imports System
-Imports System.Collections.Generic
-Imports System.Collections.ObjectModel
-Imports System.ComponentModel
-Imports System.Data
-Imports System.Drawing
-Imports System.Linq
-Imports System.Text
-Imports System.Windows.Forms
+﻿Imports System.Collections.ObjectModel
+Imports DevExpress.XtraPivotGrid
 
 Namespace HowToEditAndSavePivotCellValues
 	Partial Public Class Form1
