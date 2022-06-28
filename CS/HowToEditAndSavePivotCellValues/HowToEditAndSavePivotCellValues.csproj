@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -34,15 +34,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.BonusSkins.v19.1" />
-    <Reference Include="DevExpress.Data.v19.1" />
-    <Reference Include="DevExpress.PivotGrid.v19.1.Core" />
-    <Reference Include="DevExpress.Utils.v19.1" />
-    <Reference Include="DevExpress.Sparkline.v19.1.Core" />
-    <Reference Include="DevExpress.XtraEditors.v19.1" />
-    <Reference Include="DevExpress.Printing.v19.1.Core" />
-    <Reference Include="DevExpress.XtraLayout.v19.1" />
-    <Reference Include="DevExpress.XtraPivotGrid.v19.1" />
+    <Reference Include="DevExpress.BonusSkins.v22.1" />
+    <Reference Include="DevExpress.Drawing.v22.1" />
+    <Reference Include="DevExpress.Data.v22.1" />
+    <Reference Include="DevExpress.PivotGrid.v22.1.Core" />
+    <Reference Include="DevExpress.Data.Desktop.v22.1" />
+    <Reference Include="DevExpress.Utils.v22.1" />
+    <Reference Include="DevExpress.Sparkline.v22.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v22.1" />
+    <Reference Include="DevExpress.Printing.v22.1.Core" />
+    <Reference Include="DevExpress.XtraLayout.v22.1" />
+    <Reference Include="DevExpress.XtraPivotGrid.v22.1" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
